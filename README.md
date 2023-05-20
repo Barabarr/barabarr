@@ -1,6 +1,5 @@
 ### Olá! Seja bem vindo(a) - 😎
 
-
 - 🌱 Estudando Python
 
 <div>

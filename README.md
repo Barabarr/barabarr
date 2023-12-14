@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a) - 😎
 
-- 🌱 Estudando Python
+- 
 
 <div>
   <a href="https://github.com/Barabarr)">

@@ -1,6 +1,6 @@
 ### Oi! Seja bem-vindo(a)  - 😎
 
-	- 🌱 Estudando Python 
+- Estudando Python 📊
 	
 	
 <div align="center">

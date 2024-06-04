@@ -1,15 +1,6 @@
 ### Olá! Seja bem vindo(a) - 😎
 
-- 
 
-<div>
-  <a href="https://github.com/Barabarr)">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barabarr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barabarr&layout=compact&langs_count=8&theme=dark"/>
-<div>
-  
-
-</div>
 ### Algumas das tecnologias que domino:
 
 <div style="display: inline_block"><br>
